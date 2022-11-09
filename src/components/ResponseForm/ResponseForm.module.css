@@ -1,0 +1,14 @@
+.response-container {
+  width: max-content;
+  border: 3px solid whitesmoke;
+  margin: auto;
+  padding: 2em;
+}
+
+#reply-input {
+  border: 3px solid aqua;
+  border-radius: 5px;
+  padding: 10px;
+  width: 40vw;
+  margin: 2em;
+}
